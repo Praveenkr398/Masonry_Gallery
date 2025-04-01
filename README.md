@@ -13,3 +13,6 @@ Category:- "Mini Project, HTML, CSS"
 ✅ Pinterest-Style Masonry Layout
 ✅ Fully Responsive Design
 ✅ Lightweight & Easy to Customize
+
+
+![Preview](https://github.com/user-attachments/assets/9e1116eb-64d2-491d-a3c7-17ed79fd8409)
